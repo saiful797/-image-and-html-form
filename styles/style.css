@@ -1,0 +1,12 @@
+.panda-form{
+    background-color: rgb(255, 255, 255);
+    height: 1000px;
+    width: 50%;
+    padding-top: 30px;
+    margin-left: 350px;
+    box-shadow: -5px 5px 15px rgba(0,0,0,0.75);
+}
+
+.header-text{
+    text-align: center;
+}
