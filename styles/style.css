@@ -1,6 +1,6 @@
 .panda-form{
     background-color: rgb(255, 255, 255);
-    height: 1000px;
+    height: 930px;
     width: 50%;
     font-size: 20px;
     padding-left: 5px;
@@ -30,4 +30,8 @@
 
 #comment{
     width: 70%;
+}
+
+.btn-class{
+    padding-top: 40px;
 }
