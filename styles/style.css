@@ -2,11 +2,32 @@
     background-color: rgb(255, 255, 255);
     height: 1000px;
     width: 50%;
-    padding-top: 30px;
+    font-size: 20px;
+    padding-left: 5px;
+    padding-top: 20px;
     margin-left: 350px;
     box-shadow: -5px 5px 15px rgba(0,0,0,0.75);
 }
 
 .header-text{
-    text-align: center;
+    padding-top: 0px;
+    font-size: 20px;
+}
+.panda-image{
+    height: 350px;
+    width: 45%;
+    border-radius: 5px;
+    background-color: white;
+}
+
+.more-link{
+    position: relative;
+}
+
+#form{
+    padding: 5px;
+}
+
+#comment{
+    width: 70%;
 }
