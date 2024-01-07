@@ -28,8 +28,10 @@
     padding: 5px;
 }
 
-#comment{
+#comment-box{
     width: 70%;
+    height: 120px;
+    border-color: rgb(203, 172, 231);
 }
 
 .btn-class{
